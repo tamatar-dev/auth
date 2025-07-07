@@ -4,7 +4,7 @@ Centralized authentication microservice for the [Tamatar ecosystem](https://tama
 
 ## 💡 Stack
 - ⚡ Bun + Hono
-- 🧠 Drizzle ORM + Turso (LibSQL)
+- 🧠 Drizzle ORM + Postgres
 - 🔐 JWT & bcrypt-based auth
 - ✉️ Resend + React Email
 - 🔐 Secrets managed with Doppler
